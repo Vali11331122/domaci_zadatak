@@ -7,5 +7,5 @@ Program koji na osnovu unete duzine *stranice* jednakostranicnog trougla a izrac
 ## Formula 
 
 $$
-R= \frac{a}\sqrt{3}
+R=a\sqrt{3}
 $$
