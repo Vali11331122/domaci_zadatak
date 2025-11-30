@@ -12,6 +12,8 @@ $$
 
 ### Algoritamska sema
 
-![Algoritamsko resenje zadatka](
+![Algoritamsko resenje zadatka](algoritamska sema.png)
+
+## Resenje
 
 
