@@ -9,3 +9,9 @@ Program koji na osnovu unete duzine *stranice* jednakostranicnog trougla a izrac
 $$
 R=\frac{a}{\sqrt{3}}
 $$
+
+### Algoritamska sema
+
+![Algoritamsko resenje zadatka](
+
+
